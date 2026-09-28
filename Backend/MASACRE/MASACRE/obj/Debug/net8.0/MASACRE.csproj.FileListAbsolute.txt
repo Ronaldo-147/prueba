@@ -1,0 +1,201 @@
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\appsettings.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.staticwebassets.endpoints.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.exe
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.deps.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.runtimeconfig.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_DATOS.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_DATOS.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.AssemblyReference.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.AssemblyInfoInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.AssemblyInfo.cs
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\scopedcss\bundle\MASACRE.styles.css
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.MASACRE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.MASACRE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.build.MASACRE.props
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MASACRE.props
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MASACRE.props
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.Up2Date
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\refint\MASACRE.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.genruntimeconfig.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\ref\MASACRE.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\appsettings.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.staticwebassets.endpoints.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.exe
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.deps.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.runtimeconfig.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\MASACRE.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\JsonWebTokens.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_DATOS.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\CAPA_DATOS.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.AssemblyReference.cache
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.AssemblyInfoInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.AssemblyInfo.cs
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\scopedcss\bundle\MASACRE.styles.css
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.MASACRE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.MASACRE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.build.MASACRE.props
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MASACRE.props
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MASACRE.props
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.csproj.Up2Date
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\refint\MASACRE.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\MASACRE.genruntimeconfig.cache
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\obj\Debug\net8.0\ref\MASACRE.dll
+C:\Users\MSI GF75\source\repos\MASACRE\MASACRE\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

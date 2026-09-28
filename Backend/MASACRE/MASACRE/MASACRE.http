@@ -1,0 +1,6 @@
+@MASACRE_HostAddress = http://localhost:5069
+
+GET {{MASACRE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

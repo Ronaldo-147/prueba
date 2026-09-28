@@ -1,0 +1,24 @@
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.deps.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.AssemblyInfo.cs
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\refint\CAPA_ENTIDADES.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\ref\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.deps.json
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.AssemblyInfo.cs
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\refint\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_ENTIDADES\obj\Debug\net8.0\ref\CAPA_ENTIDADES.dll

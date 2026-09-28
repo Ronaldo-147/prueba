@@ -1,0 +1,34 @@
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.deps.json
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_DATOS.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_DATOS.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEG.592CEE62.Up2Date
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\refint\CAPA_NEGOCIO.dll
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\RONALDO_ROCHA\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\ref\CAPA_NEGOCIO.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.deps.json
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_DATOS.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_ENTIDADES.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_DATOS.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\bin\Debug\net8.0\CAPA_ENTIDADES.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEG.592CEE62.Up2Date
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\refint\CAPA_NEGOCIO.dll
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\CAPA_NEGOCIO.pdb
+C:\Users\MSI GF75\source\repos\MASACRE\CAPA_NEGOCIO\obj\Debug\net8.0\ref\CAPA_NEGOCIO.dll
